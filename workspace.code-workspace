@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../Desktop/state-02-detail-screen/assets"
+		},
+		{
+			"name": "shopp_app",
+			"path": "."
+		},
+		{
+			"name": "lib",
+			"path": "../../Desktop/state-02-detail-screen/lib"
+		}
+	],
+	"settings": {}
+}
